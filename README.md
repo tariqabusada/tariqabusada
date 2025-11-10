@@ -32,7 +32,7 @@
 <h2 style="font-weight: 500; margin-top: 2rem">Languages & Tools:</h2>
 
 <p>
-    <img src="./images/python.svg" height="35px" />
+    <img src="./images/python.png" height="35px" />
     <img src="./images/html.svg" height="35px" />
 <img src="./images/css.svg" height="35px" />
 <img src="./images/javascript.svg" height="35px" />
