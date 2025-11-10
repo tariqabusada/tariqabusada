@@ -1,12 +1,11 @@
 <h1 align="center" style="font-weight: 600"> 
     Hi there 👋
     <br />
-    This is Tariq Abu Sada 🤍
+    This is Tareq Abu Saada 🤍
 </h1>
 
 <h1 align="center" style="display: flex; justify-content: center; align-items: center;">
-    Full Stack Developer
-    <img src="./images/js.png" width="30" style="margin-left: 1rem;" />
+    Full Stack Web Developer
 </h1>
 
 <div>
