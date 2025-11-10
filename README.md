@@ -5,13 +5,13 @@
 </h1>
 
 <h1 align="center" style="display: flex; justify-content: center; align-items: center;">
-    Full Stack Web Developer
+   Software Engineer || Full Stack Web Developer
 </h1>
 
 <div>
     <h2 style="font-weight: 500; margin-top: 2rem">About Me:</h2>
-    <p> 👍 I'm from Palestine - Gaza Strip</p>
-    <p> 👍 Graduated from <a href="https://gazaskygeeks.com/" target="_blank">GazaSkyGeeks</a> of <a href="https://gazaskygeeks.com/coders-career-accelerator-course/" target="_blank">Code Academy Program</a> </p>
+    <p> 👍 Bacholer degree in Software Engineering from Al-Azhar Univiersity - Gaza
+    <p> 👍 Graduated from <a href="https://gazaskygeeks.com/" target="_blank">GazaSkyGeeks</a> of <a href="https://gazaskygeeks.com/coders-career-accelerator-course/" target="_blank">Code Academy Program G12</a> </p>
 </div>
 
 ---
