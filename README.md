@@ -20,12 +20,12 @@
 <h2 style="font-weight: 500; margin-top: 2rem">Skills:</h2>
 
 ```js
+- ⏩ 'PYTHON'                 - ⏩ 'HTML, HTML5'         - ⏩ 'CSS, CSS3'
 - ⏩ 'JavaScript'             - ⏩ 'Express'             - ⏩ 'UX/UI'
 - ⏩ 'TypeScript'             - ⏩ 'React'               - ⏩ 'Postman'
-- ⏩ 'HTML, HTML5'            - ⏩ 'Node'                - ⏩ 'React-Query'
-- ⏩ 'CSS, CSS3'              - ⏩ 'PostgreSQL'          - ⏩ 'Web API'
-- ⏩ 'Redux'                  - ⏩ 'MongoDB'             - ⏩ 'Git & GitHub'        
-
+- ⏩ 'Node'                   - ⏩ 'React-Query'         - ⏩ 'PostgreSQL'
+- ⏩ 'Web API'                - ⏩ 'MongoDB'             - ⏩ 'Git & GitHub'
+                         
 ```
 
 ---
@@ -33,6 +33,7 @@
 <h2 style="font-weight: 500; margin-top: 2rem">Languages & Tools:</h2>
 
 <p>
+    <img src="./images/python.svg" height="35px" />
     <img src="./images/html.svg" height="35px" />
 <img src="./images/css.svg" height="35px" />
 <img src="./images/javascript.svg" height="35px" />
